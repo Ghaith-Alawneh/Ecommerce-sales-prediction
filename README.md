@@ -1,1 +1,1 @@
-# Ecommerce-sales-prediction
+This project implements predictive and prescriptive analytics to forecast the number of sold units based on historical sales data. Using Python in Jupyter Notebook, the project selects relevant features, applies multiple forecasting models, evaluates their performance, and determines optimal feature weights to minimize prediction errors.
